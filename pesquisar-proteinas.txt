@@ -1,0 +1,8 @@
+https://www.uniprot.org/
+https://www.rcsb.org/
+https://zinc.docking.org/
+https://www.ncbi.nlm.nih.gov/genbank/
+https://www.ncbi.nlm.nih.gov/sra
+https://pubmed.ncbi.nlm.nih.gov/
+https://www.ebi.ac.uk/interpro/
+https://ftp.ncbi.nlm.nih.gov/genbank/
