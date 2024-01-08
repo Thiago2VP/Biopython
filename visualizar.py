@@ -1,7 +1,7 @@
-entrada = open("rna-escherichia.fasta").read()
-saida = open("bacteria.html", "w")
-# entrada = open("rna-human.fasta").read()
-# saida = open("humano.html", "w")
+entrada = open("Quimicos/rna-escherichia.fasta").read()
+saida = open("Quimicos/bacteria.html", "w")
+# entrada = open("Quimicos/rna-human.fasta").read()
+# saida = open("Quimicos/humano.html", "w")
 
 cont = {}
 

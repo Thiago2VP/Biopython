@@ -1,4 +1,4 @@
-arquivo = open("ex-multi-fasta.fasta")
+arquivo = open("Quimicos/ex-multi-fasta.fasta")
 
 linhas = arquivo.readlines()
 multifasta = {}

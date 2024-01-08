@@ -1,0 +1,47 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+seq1            MSDAAPSLSNLFYDPTYNPGQSTINYTSIYGNGSTITFDELQGLVNSTVTQAIMFGVRCG
+seq3            MSDAAPSLSNLFYDPTYNPGQSTINYTSIYGNGSTITFDELQGLVNSTVTQAIMFGVRCG
+seq2            MSDAAPSLSNLFYDPTYNPGQSTINYTSIYGNGSTITFDELQGLVNSTVTQAIMFGVRCG
+                ************************************************************
+
+seq1            AAALTLIVMWMTSRSRKTPIFIINQVSLFLIILHSALYFKYLLSNYSSVTYALTGFPQFI
+seq3            AAALTLIVMWMTSRSRKTPIFIINQVSLFLIILHSALYFKYLLSNYSSVTYALTGFPQFI
+seq2            AAALTLIVMWMTSRSRKTPIFIINQVSLFLIILHSALYFKYLLSNYSSVTYALTGFPQFI
+                ************************************************************
+
+seq1            SRGDVHVYGATNIIQVLLVASIETSLVFQIKVIFTGDNFKRIGLMLTSISFTLGIATVTM
+seq3            SRGDVHVYGATNIIQVLLVASIETSLVFQIKVIFTGDNFKRIGLMLTSISFTLGIATVTM
+seq2            SRGDVHVYGATNIIQVLLVASIETSLVFQIKVIFTGDNFKRIGLMLTSISFTLGIATVTM
+                ************************************************************
+
+seq1            ------------------------------------------------------------
+seq3            NASKTNTITSDFTTSTDRFYPGTLSSFQTDSINNDAKSSLRSRLYDLYPRRKETTSDKHS
+seq2            FDSFHILLIMSCQSLLVPSIIFILAYSLKPNQGTDVLTTVATLLAVLSLPLSSMWATAAN
+                                                                            
+
+seq1            YFVSAVKGMIVTYNDVSATQDKYFNASTILLASSINFMSFVLVVKLILAIRSRRFLGLKQ
+seq3            YFVSAVKGMIVTYNDVSATQDKYFNASTILLASSINFMSFVLVVKLILAIRSRRFLGLKQ
+seq2            YFVSAVKGMIVTYNDVSATQDKYFNASTILLASSINFMSFVLVVKLILAIRSRRFLGLKQ
+                ************************************************************
+
+seq1            FDSFHILLIMSCQSLLVPSIIFILAYSLKPNQGTDVLTTVATLLAVLSLPLSSMWATAAN
+seq3            FDSFHILLIMSCQSLLVPSIIFILAYSLKPNQGTDVLTTVATLLAVLSLPLSSMWATAAN
+seq2            NASKTNTITSDFTTSTDRFYPGTLSSFQTDSINNDAKSSLRSRLYDLYPRRKETTSDKHS
+                  *    :  .  :         *:   . . ..*. ::: : *  *    ..  :   .
+
+seq1            NASKTNTITSDFTTSTDRFYPGTLSSFQTDSINNDAKSSLRSRLYDLYPRRKETTSDKHS
+seq3            ------------------------------------------------------------
+seq2            ------------------------------------------------------------
+                                                                            
+
+seq1            ERTFVSETADDIEKNQFYQLPTPTSSKNTRIGPFADASYKEGEVEPVDMYTPDTAADEEA
+seq3            ERTFVSETADDIEKNQFYQLPTPTSSKNTRIGPFADASYKEGEVEPVDMYTPDTAADEEA
+seq2            ERTFVSETADDIEKNQFYQLPTPTSSKNTRIGPFADASYKEGEVEPVDMYTPDTAADEEA
+                ************************************************************
+
+seq1            RKFWTEDNNNL
+seq3            RKFWTEDNNNL
+seq2            RKFWTEDNNNL
+                ***********

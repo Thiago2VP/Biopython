@@ -1,0 +1,123 @@
+BLASTP 2.12.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input: Quimicos/pcare.fasta).
+           1 sequences; 1,288 total letters
+
+
+
+Query= sp|A0A1B0GTW7|CIROP_HUMAN Ciliated left-right organizer
+metallopeptidase OS=Homo sapiens OX=9606 GN=CIROP PE=1 SV=1
+
+Length=788
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+sp|A6NGG8|PCARE_HUMAN Photoreceptor cilium actin regulator OS=Hom...  25.8    0.015
+
+
+> sp|A6NGG8|PCARE_HUMAN Photoreceptor cilium actin regulator OS=Homo 
+sapiens OX=9606 GN=PCARE PE=1 SV=1
+Length=1288
+
+ Score = 25.8 bits (55),  Expect = 0.015, Method: Compositional matrix adjust.
+ Identities = 19/64 (30%), Positives = 25/64 (39%), Gaps = 17/64 (27%)
+
+Query  488   PLANGSECWKKENGFPAGVDNPHGEIYHPQSRC---------FFANLTSQLLPGDKPRHP  538
+             PL N +ECWK  +G     D+        Q R          F     S   PG +P+ P
+Sbjct  1155  PLGNPAECWKNSSGPWLRADS--------QRRAALCALNPLPFLRRTASDRQPGGRPQPP  1206
+
+Query  539   SLTP  542
+             +L P
+Sbjct  1207  TLDP  1210
+
+
+ Score = 19.2 bits (38),  Expect = 1.5, Method: Compositional matrix adjust.
+ Identities = 19/65 (29%), Positives = 28/65 (43%), Gaps = 5/65 (8%)
+
+Query  99   TQRIQAVLAVQGPLLLSRDPA--QYCHAVWGDPDSPNYHRCSLLNPGYKGESCLGAKIPD  156
+            T R++A L     +L S+D +  Q C+     P+        L N    GE    AK  D
+Sbjct  663  TSRLKASLTKNFSILPSQDKSILQKCNP---HPEDEQGKAGKLPNAIPSGEVSEAAKATD  719
+
+Query  157  THLRG  161
+             ++RG
+Sbjct  720  WNVRG  724
+
+
+ Score = 18.1 bits (35),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 8/22 (36%), Positives = 12/22 (55%), Gaps = 0/22 (0%)
+
+Query  599  CQTNEDINAVTSPPVSLSTPDP  620
+            C ++     +TSPP+ L T  P
+Sbjct  434  CLSSTSPENITSPPLKLGTSTP  455
+
+
+ Score = 16.9 bits (32),  Expect = 7.6, Method: Compositional matrix adjust.
+ Identities = 10/32 (31%), Positives = 13/32 (41%), Gaps = 3/32 (9%)
+
+Query  288  HLTSPSLSHSDIVMATLH---ELLHALGFSGQ  316
+            H+  P+      V   L    E  +ALG  GQ
+Sbjct  603  HVEDPTFQELRRVQRDLSQKLEAFYALGAKGQ  634
+
+
+ Score = 16.5 bits (31),  Expect = 9.1, Method: Compositional matrix adjust.
+ Identities = 11/50 (22%), Positives = 21/50 (42%), Gaps = 6/50 (12%)
+
+Query  529  LLPGDKPRHPSLTPHLKEAELMGRCYLHQCTGRGAYKVQVEGSPWVPCLP  578
+            ++P   P++  L P      L  +  +   +GR + K+ +   P  P  P
+Sbjct  763  IMPPRFPKYTGLAP------LYPKPQISPASGRESLKMGIGWKPLAPIFP  806
+
+
+ Score = 16.5 bits (31),  Expect = 9.3, Method: Compositional matrix adjust.
+ Identities = 5/5 (100%), Positives = 5/5 (100%), Gaps = 0/5 (0%)
+
+Query  682  PGCQG  686
+            PGCQG
+Sbjct  30   PGCQG  34
+
+
+ Score = 16.5 bits (31),  Expect = 9.5, Method: Compositional matrix adjust.
+ Identities = 10/34 (29%), Positives = 12/34 (35%), Gaps = 0/34 (0%)
+
+Query  428  AAEELLWGQGSGPEFGLVTTCGTGSSDFFCTGSG  461
+            A E   W   + P      +  T     FC GSG
+Sbjct  374  APEPEEWKSVTSPHTEARQSGHTWQQSPFCLGSG  407
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.135    0.427    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 923549
+
+
+  Database: User specified sequence set (Input: Quimicos/pcare.fasta).
+    Posted date:  Unknown
+  Number of letters in database: 1,288
+  Number of sequences in database:  1
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
